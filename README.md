@@ -8,7 +8,7 @@ It includes three screenshots showing the network setup and a Word document expl
 ## 📄 Contents
 
 - **Basic Network Configuration.docx**  
-  Full written explanation of the network setup, device addressing, and connectivity tests.
+  Network setup, device addressing, and connectivity tests.
 
 - **Packet Tracer Screenshots**  
   Three images showing the network topology and device configuration.
